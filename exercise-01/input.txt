@@ -1,0 +1,3 @@
+Choice: 1
+First number: 12
+Second number: 8

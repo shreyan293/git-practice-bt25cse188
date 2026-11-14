@@ -1,0 +1,2 @@
+Enter student marks (0-100): 86
+Grade: B
